@@ -1,5 +1,5 @@
 *{
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 .container{
@@ -27,5 +27,5 @@
 }
 
 .btn{
-  margin-right: 30px;
+  margin-right: 25px;
 }
