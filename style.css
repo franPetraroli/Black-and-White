@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  padding:0;
+}
+
+#canvas{
+  margin: 0  auto;
+  background-color: #ececec;
+  width: 100%;
+}
+
+.btn-disabled{
+  color: #fff;
+}
+
+#effects{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.btn-group{
+  font-size: 12px;
+}
+
+.btn{
+  margin-right: 30px;
+}
